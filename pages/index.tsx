@@ -10,7 +10,7 @@ export default function Home() {
     <div>
       <header>Header Here</header>
       <body>
-        <h1 className="font-bold text-blue-300">Counter</h1>
+        <h1 className="font-bold text-blue-300">Counter App</h1>
         <h1 className="text-500 font-bold text-red-500">VALUE: {count}</h1>
         <h1 className="text-500 font-bold text-red-500">
           VALUE x 5: {multiplierCount}
